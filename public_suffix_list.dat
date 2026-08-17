@@ -16164,6 +16164,10 @@ v.ua
 val.run
 web.val.run
 
+// Varnish Software AB : https://www.varnish-software.com/
+// Submitted by Ludvig Fröberg <admin@varnish-cdn.com>
+cust.varnish-cdn.net
+
 // Vercel, Inc : https://vercel.com/
 // Submitted by Laurens Duijvesteijn <security@vercel.com>
 vercel.app
